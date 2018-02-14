@@ -1,2 +1,2 @@
 # hospital_readmissions
-Hospitral Readmissions Project
+Hospital Readmissions Project
